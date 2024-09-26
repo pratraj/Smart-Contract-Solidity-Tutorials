@@ -1,0 +1,13 @@
+artifacts
+cache
+*.swp
+node_modules
+tags
+build
+dist
+**/build
+
+tags.*
+**/.env
+credentials.json
+google-auth-token.json
